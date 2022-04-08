@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shanky2708
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python Web Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently pursuing Python fullsatack Development
 - 📫 How to reach me sanketgunjekar@gmail.com
 
 <!---
