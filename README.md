@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shanky2708
 - 👀 I’m interested in Coding
-- 🌱 I’m currently pursuing Python fullsatack Development
-- 📫 How to reach me sanketgunjekar@gmail.com
+- 🌱 Backend Developer
+-  📫 How to reach me sanketgunjekar@gmail.com
 
 <!---
 Shanky2708/Shanky2708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
